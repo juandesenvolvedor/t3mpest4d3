@@ -1,5 +1,5 @@
-# 💫 About Me:
-🖥️ Cursando Ciência Da Computação<br>👯 Aprendendo Desenvolvimento Front-End<br>💙 CSS
+# 💫 Sobre:
+🖥️ Cursando Ciência Da Computação<br>👨‍💻 Aprendendo Desenvolvimento Front-End<br>💙 CSS
 
 
 ## 🌐 Socials:
