@@ -1,5 +1,5 @@
 # 💫 Sobre:
-🖥️ Cursando Ciência Da Computação<br>👨‍💻 Aprendendo Desenvolvimento Front-End<br>💙 CSS
+🖥️ Cursando Ciência Da Computação<br>👨‍💻 Aprendendo Desenvolvimento Web<br>💙 CSS
 
 
 ## 🌐 Socials:
